@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="24px" viewBox="0 0 20 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61.1 (89650) - https://sketch.com -->
+    <title>icon 7</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Icons" transform="translate(-418.000000, -246.000000)" stroke="#4C4D5F">
+            <g id="icon-7" transform="translate(419.000000, 247.000000)">
+                <g id="noun_Document_1740739">
+                    <g>
+                        <path d="M13.6476,0 L0.7524,0 C0.617150042,0 0.487491416,0.0549690625 0.392193786,0.15271985 C0.296896155,0.250470637 0.24384078,0.382915544 0.244787216,0.520666667 L0.244787216,21.4793333 C0.24384078,21.6170845 0.296896155,21.7495294 0.392193786,21.8472802 C0.487491416,21.9450309 0.617150042,22 0.7524,22 L17.2476,22 C17.38285,22 17.5125086,21.9450309 17.6078062,21.8472802 C17.7031038,21.7495294 17.7561592,21.6170845 17.7552128,21.4793333 L17.7552128,4.4 L13.6476,0 Z" id="Path" stroke-width="1.2"></path>
+                        <path d="M17.73,4.994 L13.2876,4.994 C13.0662156,5.00227665 12.8797408,4.82708442 12.87,4.60166667 L12.87,0" id="Path" stroke-width="1.2"></path>
+                        <line x1="5.4504" y1="17.4973333" x2="13.0896" y2="9.24" id="Path" stroke-width="1.2"></line>
+                        <ellipse id="Oval" stroke-width="1.2" cx="6.2172" cy="10.7213333" rx="1.44" ry="1.46666667"></ellipse>
+                        <ellipse id="Oval" stroke-width="1.2" cx="11.7828" cy="16.1846667" rx="1.44" ry="1.46666667"></ellipse>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

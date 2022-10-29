@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="25px" viewBox="0 0 18 25" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 62 (91390) - https://sketch.com -->
+    <title>Group 4</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="v17_B" transform="translate(-268.000000, -1778.000000)" fill="#01B289">
+            <g id="Group-4" transform="translate(268.000000, 1778.000000)">
+                <path d="M15.7482098,0 L2.2326946,0 C1.0559276,0 0.0981633736,0.924702774 0,2.09421546 C0,2.09421546 0,8.97070765 0,22.723692 C0,24.2602042 0.918834072,25 2.2326946,25 L15.7482098,25 C16.9897228,25 18,23.974404 18,22.7133906 L18,2.28660938 C18,1.02559597 16.9900212,0 15.7482098,0 Z M16.8742541,22.7130876 C16.8742541,23.3432914 16.3694139,23.8562408 15.7485082,23.8562408 L2.23299297,23.8562408 C1.61208726,23.8562408 1.10724705,23.3432914 1.10724705,22.7130876 L1.10724705,2.2863064 C1.10724705,1.65579969 1.61208726,1.1431532 2.23299297,1.1431532 L15.7485082,1.1431532 C16.3694139,1.1431532 16.8742541,1.65579969 16.8742541,2.2863064 L16.8742541,22.7130876 Z" id="Shape-Copy" fill-rule="nonzero"></path>
+                <rect id="Rectangle" x="3" y="4" width="12" height="1.2" rx="0.6"></rect>
+                <rect id="Rectangle" x="3" y="9" width="7" height="1.2" rx="0.6"></rect>
+                <rect id="Rectangle" x="9" y="21" width="6" height="1.2" rx="0.6"></rect>
+                <rect id="Rectangle" x="3" y="12" width="9" height="1.2" rx="0.6"></rect>
+                <rect id="Rectangle" x="3" y="15" width="5" height="1.2" rx="0.6"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

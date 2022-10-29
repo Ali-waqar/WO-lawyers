@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 62 (91390) - https://sketch.com -->
+    <title>icon 4</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="04.Time-Tracking" transform="translate(-271.000000, -398.000000)" fill="#01B289" fill-rule="nonzero">
+            <g id="Features" transform="translate(250.000000, 124.000000)">
+                <g id="Time-Tracking" transform="translate(21.000000, 255.000000)">
+                    <g id="icon-4" transform="translate(0.000000, 19.000000)">
+                        <path d="M12,0 C5.38338774,0 0,5.38318774 0,12 C0,18.6168123 5.38338774,24 12,24 C18.6166123,24 24,18.6168123 24,12 C24,5.38318774 18.6166123,0 12,0 Z M12,22.5491038 C6.18317011,22.5491038 1.45085238,17.8170057 1.45085238,12 C1.45085238,6.18299429 6.18317011,1.45089623 12,1.45089623 C17.8168299,1.45089623 22.5491476,6.18299429 22.5491476,12 C22.5491476,17.8170057 17.8168299,22.5491038 12,22.5491038 Z M12,4.03639331 L10.5491476,4.03639331 L10.5491476,13.4508962 L18.1661226,13.4508962 L18.1661226,12 L12,12 L12,4.03639331 Z" id="Shape"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
